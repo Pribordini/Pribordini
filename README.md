@@ -3,7 +3,7 @@
 ### ✨✨Meu nome é Priscilla e estou ingressando neste novo mundo, cheio de aprendizado e aventuras✨✨
 
 ###### 🔭Atualmente, trabalho com o papel de PO e por esta proximidade com a Squad, tive o desejo de me aprofundar no conhecimento
-###### 🌱Estou realizando um Bootcamp na Dio para Mobile Developer 
+###### 🌱Estou realizando um Bootcamp na Dio para Desenvolvimento em Java
 
 ⚡Curiosidade: Gosto de poema e já tive um poema publicado em um livro :heart:
 
